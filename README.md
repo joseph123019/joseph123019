@@ -1,28 +1,64 @@
-# 👋 Hi, I'm Joseph Muñoz  
+# 👋 Hi, I’m Joseph Muñoz
 
-🚀 **Full-Stack Systems Architect & Developer** with 9+ years of experience building **ERP systems, SaaS platforms, AI automation, and cloud-native applications**.  
+### Full-Stack Systems Architect | Web & ERP Developer | AI Automation Builder
 
----
+I design and build scalable software that connects business operations end-to-end — from ERP and supply chain workflows to SaaS platforms and AI-powered automation.
 
-## 🔧 Tech Stack  
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS  
-- **Backend:** Node.js, Laravel, PHP, Express.js  
-- **Databases:** MySQL, MongoDB, MS SQL, PostgreSQL, SQLite  
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, DigitalOcean, Nginx, CI/CD  
-- **APIs & Tools:** QuickBooks API, GraphQL, REST, n8n, LangChain, OpenAI  
-- **Other:** ERP systems, Supply Chain Automation, POS, Inventory Management  
+With 9+ years of hands-on experience, I specialize in turning complex operational problems into reliable, maintainable systems.
 
 ---
 
-## 🌟 What I Do  
-- Architect & develop **ERP and automation systems** for business workflows  
-- Build **SaaS & AI-driven platforms** with modern cloud-native stacks  
-- Integrate **APIs & third-party services** (finance, logistics, e-commerce)  
-- Deliver scalable, secure, and maintainable **end-to-end solutions**  
+## 🚀 What I Build
+
+- **ERP-integrated web platforms** for manufacturing, inventory, procurement, and operations
+- **SaaS applications** with modern, cloud-native architecture
+- **AI automation workflows** using LLMs, orchestration tools, and API integrations
+- **Custom dashboards & reporting tools** for real-time operational visibility
+- **EDI and third-party integrations** across finance, logistics, and e-commerce
 
 ---
 
-## 📫 Connect with Me  
+## 🧩 Current Role
+
+### Web & ERP Developer — AVL Manufacturing (Hamilton, ON)
+I build and maintain internal web systems tightly integrated with ERP workflows, helping teams across manufacturing, engineering, and operations streamline data and decision-making.
+
+**Focus areas:**
+- ERP-connected internal applications
+- SQL-driven reporting & process automation
+- Cross-department systems integration
+- Supplier and procurement workflow tooling (including EDI-style integrations)
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+React · Next.js · Vue.js · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · Laravel · PHP · .NET / ASP.NET
+
+**Databases**  
+SQL Server · MySQL · PostgreSQL · MongoDB · SQLite
+
+**Cloud & DevOps**  
+Docker · Kubernetes · AWS · DigitalOcean · Nginx · CI/CD
+
+**Integration / AI**  
+REST · GraphQL · QuickBooks API · n8n · LangChain · OpenAI APIs
+
+---
+
+## 🌍 Domain Experience
+
+ERP Systems · Supply Chain Automation · POS · Inventory Management · Business Process Optimization
+
+---
+
+## 📫 Let’s Connect
+
 🌐 [irsolutions.ca](https://irsolutions.ca)  
 🐙 [GitHub](https://github.com/joseph123019)  
-✉️ [josephmunoz191230@gmail.com](mailto:josephmunoz191230@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/joseph2112/)  
+✉️ [josephmunoz191230@gmail.com](mailto:josephmunoz191230@gmail.com)
